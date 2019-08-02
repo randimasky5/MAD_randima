@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">By bus</string>
+    <string name="my_routes">My Routes</string>
+    <string name="add_route">Add Route</string>
+    <string name="payments">Payments</string>
+    <string name="booking">Booking</string>
+
+
+</resources>
